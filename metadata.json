@@ -1,0 +1,8 @@
+
+{
+  "name": "Cosmic Canvas 3D",
+  "version": "1.0.0",
+  "description": "An interactive 3D universe simulation built with React, Three.js, and Tailwind CSS. Explore a dynamic environment filled with randomly generated galaxies.",
+  "requestFramePermissions": []
+}
+    
